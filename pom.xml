@@ -68,10 +68,4 @@
   </build>
 </project>
 
-<properties>
-		
-		<sonar.host.url>http://13.233.163.202:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password> 
-		
-	</properties>
+
